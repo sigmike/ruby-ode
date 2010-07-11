@@ -42,6 +42,7 @@ reached at <ged@FaerieMUD.org>.
 
 == Installation
 
+ $ cd ext
  $ ruby extconf.rb
  $ make
  $ make test #(if Test::Unit is installed)
